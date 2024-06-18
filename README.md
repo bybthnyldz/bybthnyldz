@@ -1,9 +1,5 @@
-## Hi there 👋
+## Merhaba 👋
 
-
-**bybthnyldz/bybthnyldz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 🔭 Şu anda üzerinde çalıştığım projeler: Frontend ve mobil uygulama geliştirme üzerine projeler.
 
